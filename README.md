@@ -5,7 +5,7 @@
 [![javadoc](https://javadoc.io/badge2/io.github.nscuro/versatile-core/javadoc.svg)](https://javadoc.io/doc/io.github.nscuro/versatile-core)
 [![License](http://img.shields.io/:license-apache-brightgreen.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 
-Java implementation of [vers](https://github.com/package-url/purl-spec/blob/version-range-spec/VERSION-RANGE-SPEC.rst),
+Java implementation of [vers](https://github.com/package-url/purl-spec/blob/main/VERSION-RANGE-SPEC.rst),
 *a mostly universal version range specifier*
 
 ## Introduction
